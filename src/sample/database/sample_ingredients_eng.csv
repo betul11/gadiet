@@ -174,7 +174,7 @@ Loaf mocha bread,Grains and grain products,354,8.31,7.53,63.29,1.4,26,0.77,316,2
 Baguette,Grains and grain products,279,9.4,1.3,57.5,2.7,16,0.9,620,0,0.08,0.05,0,600,32
 "Bagel, Egg",Grains and grain products,278,10.6,2.1,53,2.3,13,3.98,505,33,0.536,0.235,0.6,0,0
 Loaf bread,Grains and grain products,279,9.01,4.91,49.68,3.7,26,0.6,516,1.416666667,0.169,0.326,0,545.11,45.74
-"Loaf bread, ¥â-Carotene added",Grains and grain products,266,9.35,3.5,49.37,3.7,17,0.73,456,26.83333333,0.299,0.891,0,737.52,35.88
+"Loaf bread, ??-Carotene added",Grains and grain products,266,9.35,3.5,49.37,3.7,17,0.73,456,26.83333333,0.299,0.891,0,737.52,35.88
 "Loaf bread, Corn",Grains and grain products,270,9.44,3.42,50.45,3.7,17,0.68,524,0.833333333,0.059,1.942,0,805.98,54.72
 "Loaf bread, Milk",Grains and grain products,285,9.1,6,48.7,0,32,1.5,434,0,0.07,0.07,0,0,0
 Corn bread,Grains and grain products,321,7.4,10.2,49.1,2.4,75,1.94,795,36,0.249,0.276,0.1,0,0
@@ -716,8 +716,8 @@ Carrot juice,Vegetables,38,0.44,0.09,10.03,2.1,11,0.09,42,604.25,0,0.035,5.64,67
 "Aralia continentalis Kitag., Leaves, Blanched",Vegetables,61,6.3,0.8,10.8,0,221,2.5,27,11.75,0.22,0.35,14,0,0
 "Aralia continentalis Kitag., Stem, Raw",Vegetables,17,1.6,0.2,3.1,0,36,1.1,29,0.333333333,0.16,0.31,4,0,0
 "Aralia continentalis Kitag., Stem, Blanched",Vegetables,16,1.5,0.1,3.3,0,55,0.8,3,0.583333333,0.11,0.12,4,0,0
-"Solomon¢¥s seal(Polygonatum odoratum), Leaves, Raw",Vegetables,52,3.4,0.2,11.7,0,58,8.9,9,9.166666667,0.11,0.05,2,0,0
-"Solomon¢¥s seal(Polygonatum odoratum), Leaves, Dried",Vegetables,289,16.5,0.9,67.7,0,572,59.9,7,0.833333333,0.46,1.41,32,0,0
+"Solomon??s seal(Polygonatum odoratum), Leaves, Raw",Vegetables,52,3.4,0.2,11.7,0,58,8.9,9,9.166666667,0.11,0.05,2,0,0
+"Solomon??s seal(Polygonatum odoratum), Leaves, Dried",Vegetables,289,16.5,0.9,67.7,0,572,59.9,7,0.833333333,0.46,1.41,32,0,0
 "Perilla seed, Sprouts, Raw",Vegetables,17,1.7,0.1,2.5,0,29,7.8,0,3.916666667,0.04,0.19,7,0,0
 "Perilla Leaves, Raw",Vegetables,47,4.46,0.5,8.89,5.7,296,1.91,1,630.4166667,0.329,0.508,2.73,69.51,245.03
 "Perilla Leaves, Blanched",Vegetables,32,3.93,0.6,4.8,3.9,226,1.39,1,586.6666667,0.045,0.161,0.13,61.57,381.3
@@ -2376,7 +2376,7 @@ Safforn cod,Fish and shellfish and other seafood,95,12.6,4.3,0.7,0,134,4,0,15,0.
 "Egg cockle(Fulvia mutica), Raw",Fish and shellfish and other seafood,114,21.5,1.9,1.3,0,32,3.7,100,0,0.1,0.11,2,0,0
 "Egg cockle(Fulvia mutica), Dried",Fish and shellfish and other seafood,295,61.1,1.5,5.2,0,207,11.2,0,0,0.05,0.16,0,0,0
 "Egg cockle(Fulvia mutica), Seasoned and dried",Fish and shellfish and other seafood,315,57.9,4.1,7.9,0,287,83.1,0,0,0,0,0,0,0
-"Keen¡¯s gaper(Tresus keenae), Raw",Fish and shellfish and other seafood,100,16.4,2.2,2.7,0,85,6.3,330,15.33333333,0.02,0.14,2,0,0
+"Keen??s gaper(Tresus keenae), Raw",Fish and shellfish and other seafood,100,16.4,2.2,2.7,0,85,6.3,330,15.33333333,0.02,0.14,2,0,0
 "Soft shell clam(Mya arenaria), Raw",Fish and shellfish and other seafood,98,16.3,2,2.7,0,56,4.1,89,13,0.02,0.13,2,0,0
 "Pink butterfly shell(Megangulus venulosus), Raw",Fish and shellfish and other seafood,68,11.9,0.6,3,0,64,5.8,0,0,0.03,0.15,2,0,0
 "Pearl oyster(Pinctada fucata martensii), Raw",Fish and shellfish and other seafood,56,10.1,0.9,1.1,0,94,2.6,0,0,0.03,0.1,2,0,0
@@ -2684,8 +2684,8 @@ Common sunflower(Helianthus annuus L.) seed oil,Fats and oils,921,0,100,0,0,0,0,
 "Jujube(Ziziphus jujuba Mill.) tea, Brewed",Teas,75,0.12,0.44,17.75,0.2,3,0.06,30,0,0.029,0.02,0.07,197.09,44.36
 "Doraji(Platycodon grandiflorus), Balloon flower, Tea, Brewed",Teas,22,0.3,0,5.1,0,4,0.7,7,0,0.06,0.02,7,0,0
 Eucommia bark tea powder,Teas,354,14.3,3.8,67.9,0,407,13.8,31,0,0.17,0.59,12,0,0
-"Solomon¢¥s seal(Polygonatum odoratum) tea, Instant, Brewed",Teas,1,0,0.01,0.27,0,1,0.02,0,0,0,0.035,0.52,0.36,0
-"Solomon¢¥s seal(Polygonatum odoratum) tea, Instant, Sollid ingradients",Teas,372,7.3,1.08,83.19,19.4,180,13.77,10,0,0.155,1.405,0,436.74,19.32
+"Solomon??s seal(Polygonatum odoratum) tea, Instant, Brewed",Teas,1,0,0.01,0.27,0,1,0.02,0,0,0,0.035,0.52,0.36,0
+"Solomon??s seal(Polygonatum odoratum) tea, Instant, Sollid ingradients",Teas,372,7.3,1.08,83.19,19.4,180,13.77,10,0,0.155,1.405,0,436.74,19.32
 "Dandelion(Taraxacum officinale), Tea",Teas,0,0.01,0,0.05,0,2,0,1,0,0,0.003,0.03,0.7,0
 "Barley tea, Roasted",Teas,406,15.28,3.56,78.22,26.6,65,7.87,24,0,0.007,0.915,0,1823.3,167.01
 "Barley tea, Extract",Teas,0,0,0,0.07,0,2,0,1,0,0,0,0,0.31,0

@@ -6,6 +6,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.RadioButton;
 import javafx.stage.Stage;
+import sample.database.CSVReader;
 
 import java.awt.*;
 import java.io.File;
@@ -25,6 +26,8 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception{
+        CSVReader csvReader = new CSVReader();
+        csvReader.CSVReaderMethod();
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
         primaryStage.setTitle("Gadiet");
         primaryStage.setScene(new Scene(root, 300, 275));

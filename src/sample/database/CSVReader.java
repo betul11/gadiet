@@ -29,6 +29,8 @@ public class CSVReader {
         System.out.println(data);
         */
         String ingredient = inputStream.next();
+        System.out.println(ingredient);
+
         ingredients.add(i,ingredient);
         System.out.print("iauahowiefjoeijfo");
 
@@ -36,8 +38,7 @@ public class CSVReader {
         System.out.print(ingredients.get(i));
     }
 
-
-        inputStream.close();
+    inputStream.close();
     }catch(FileNotFoundException e){
     e.printStackTrace();
     }

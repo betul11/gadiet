@@ -2,15 +2,40 @@ package sample.model;
 
 public class User {
     private int age;
+    private int gender; // 1 for female and 2 for male
     private int weight;
-    private boolean isPregnant;
-    private boolean isVegetarian;
+   private boolean isPregnant;
 
-    public User(int age, int weight, boolean isPregnant, boolean isVegetarian) {
+    public User(int age, int gender, int weight, boolean isPregnant) {
         this.age = age;
+        this.gender = gender;
         this.weight = weight;
         this.isPregnant = isPregnant;
-        this.isVegetarian = isVegetarian;
+
+    }
+
+    public void setGender(int gender) {
+        this.gender = gender;
+    }
+
+    public int getGender() {
+        return gender;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public void setWeight(int weight) {
+        this.weight = weight;
+    }
+
+    public void setPregnant(boolean pregnant) {
+        isPregnant = pregnant;
+    }
+
+    public User(){
+
     }
 
     public int getAge() {
@@ -25,7 +50,4 @@ public class User {
         return isPregnant;
     }
 
-    public boolean isVegetarian() {
-        return isVegetarian;
-    }
 }

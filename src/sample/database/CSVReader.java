@@ -5,17 +5,24 @@ import java.util.Vector;
 
 public class CSVReader {
 
+    public CSVReader() {
+    }
 
     public void CSVReaderMethod(){
 
-    String fileName = "C:\\Users\\BATOOL\\IdeaProjects\\gadiet\\src\\sample\\database\\ABBREV_240.csv";
+    String fileName = "C:\\Users\\BATOOL\\IdeaProjects\\gadiet\\src\\sample\\database\\ABBREV_75.csv";
     File file = new File(fileName);
 
     try{
     Scanner inputStream = new Scanner(file);
-    int i = 0;
+        System.out.print("iauahowiefjoeijfo");
+
+        int i = 0;
     Vector<String> ingredients = new Vector<>();
     while (inputStream.hasNext()) {
+
+        System.out.print("iauahowiefjoeijfo");
+
         /*
         String data = sc.next();
         String[] values = data.split(",");
@@ -23,8 +30,10 @@ public class CSVReader {
         */
         String ingredient = inputStream.next();
         ingredients.add(i,ingredient);
+        System.out.print("iauahowiefjoeijfo");
 
-      System.out.print(ingredients.get(i));
+
+        System.out.print(ingredients.get(i));
     }
 
 
